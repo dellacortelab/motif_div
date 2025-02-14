@@ -1,0 +1,4402 @@
+[
+  {
+    "domain_name": "2hb0B01",
+    "matching_domain_name": "3vacA01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      317,
+      326
+    ],
+    "overlap_residue_range_2": [
+      317,
+      326
+    ],
+    "beginning_idx": 0,
+    "end_idx": 355,
+    "rmsd": 6.949181293052837,
+    "superfamily": [
+      2,
+      60,
+      40,
+      2520
+    ]
+  },
+  {
+    "domain_name": "3utfC01",
+    "matching_domain_name": "3ukhC01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      179,
+      188
+    ],
+    "overlap_residue_range_2": [
+      179,
+      188
+    ],
+    "beginning_idx": 0,
+    "end_idx": 505,
+    "rmsd": 6.950887450885485,
+    "superfamily": [
+      3,
+      50,
+      50,
+      60
+    ]
+  },
+  {
+    "domain_name": "6c6tH02",
+    "matching_domain_name": "6gfwA02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      188,
+      197
+    ],
+    "overlap_residue_range_2": [
+      188,
+      197
+    ],
+    "beginning_idx": 0,
+    "end_idx": 228,
+    "rmsd": 6.971047374764943,
+    "superfamily": [
+      2,
+      170,
+      120,
+      12
+    ]
+  },
+  {
+    "domain_name": "2i3pA00",
+    "matching_domain_name": "1af5A00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      30,
+      39
+    ],
+    "overlap_residue_range_2": [
+      30,
+      39
+    ],
+    "beginning_idx": 0,
+    "end_idx": 135,
+    "rmsd": 6.9761120747089675,
+    "superfamily": [
+      3,
+      10,
+      28,
+      10
+    ]
+  },
+  {
+    "domain_name": "4nz7A01",
+    "matching_domain_name": "4j37A01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      250,
+      259
+    ],
+    "overlap_residue_range_2": [
+      250,
+      259
+    ],
+    "beginning_idx": 0,
+    "end_idx": 305,
+    "rmsd": 6.977740866896116,
+    "superfamily": [
+      3,
+      30,
+      70,
+      580
+    ]
+  },
+  {
+    "domain_name": "4k2rA02",
+    "matching_domain_name": "4xz1A02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      153,
+      162
+    ],
+    "overlap_residue_range_2": [
+      153,
+      162
+    ],
+    "beginning_idx": 0,
+    "end_idx": 254,
+    "rmsd": 6.984571936191655,
+    "superfamily": [
+      1,
+      10,
+      930,
+      10
+    ]
+  },
+  {
+    "domain_name": "1xfxE03",
+    "matching_domain_name": "1k90C02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      683,
+      692
+    ],
+    "overlap_residue_range_2": [
+      683,
+      692
+    ],
+    "beginning_idx": 0,
+    "end_idx": 507,
+    "rmsd": 7.018177656162231,
+    "superfamily": [
+      3,
+      90,
+      1760,
+      10
+    ]
+  },
+  {
+    "domain_name": "1z63A03",
+    "matching_domain_name": "1z6aA03",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      567,
+      576
+    ],
+    "overlap_residue_range_2": [
+      567,
+      576
+    ],
+    "beginning_idx": 0,
+    "end_idx": 469,
+    "rmsd": 7.02804958838486,
+    "superfamily": [
+      1,
+      20,
+      120,
+      850
+    ]
+  },
+  {
+    "domain_name": "4zvvB01",
+    "matching_domain_name": "5kkcA01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      92,
+      101
+    ],
+    "overlap_residue_range_2": [
+      92,
+      101
+    ],
+    "beginning_idx": 0,
+    "end_idx": 331,
+    "rmsd": 7.057165994046615,
+    "superfamily": [
+      3,
+      40,
+      50,
+      720
+    ]
+  },
+  {
+    "domain_name": "5uk4G01",
+    "matching_domain_name": "2qvjC01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      358,
+      367
+    ],
+    "overlap_residue_range_2": [
+      358,
+      367
+    ],
+    "beginning_idx": 0,
+    "end_idx": 421,
+    "rmsd": 7.102260543688383,
+    "superfamily": [
+      1,
+      10,
+      3570,
+      10
+    ]
+  },
+  {
+    "domain_name": "2f5tX02",
+    "matching_domain_name": "3qphA03",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      207,
+      216
+    ],
+    "overlap_residue_range_2": [
+      207,
+      216
+    ],
+    "beginning_idx": 0,
+    "end_idx": 229,
+    "rmsd": 7.119242743484349,
+    "superfamily": [
+      2,
+      30,
+      30,
+      690
+    ]
+  },
+  {
+    "domain_name": "3qg2B02",
+    "matching_domain_name": "3um5A02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      23,
+      32
+    ],
+    "overlap_residue_range_2": [
+      23,
+      32
+    ],
+    "beginning_idx": 0,
+    "end_idx": 546,
+    "rmsd": 7.119308499132595,
+    "superfamily": [
+      6,
+      10,
+      250,
+      2210
+    ]
+  },
+  {
+    "domain_name": "5f0xB04",
+    "matching_domain_name": "6eoeA03",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      274,
+      283
+    ],
+    "overlap_residue_range_2": [
+      274,
+      283
+    ],
+    "beginning_idx": 0,
+    "end_idx": 379,
+    "rmsd": 7.141197811385745,
+    "superfamily": [
+      3,
+      90,
+      640,
+      10
+    ]
+  },
+  {
+    "domain_name": "5m33A00",
+    "matching_domain_name": "1iv5B00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      176,
+      185
+    ],
+    "overlap_residue_range_2": [
+      276,
+      285
+    ],
+    "beginning_idx": 0,
+    "end_idx": 89,
+    "rmsd": 7.165203680788849,
+    "superfamily": [
+      1,
+      10,
+      1450,
+      10
+    ]
+  },
+  {
+    "domain_name": "2qlzD02",
+    "matching_domain_name": "2qufA02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      27,
+      36
+    ],
+    "overlap_residue_range_2": [
+      27,
+      36
+    ],
+    "beginning_idx": 0,
+    "end_idx": 214,
+    "rmsd": 7.19460513011928,
+    "superfamily": [
+      6,
+      10,
+      250,
+      2960
+    ]
+  },
+  {
+    "domain_name": "3e04B02",
+    "matching_domain_name": "5uppB02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      363,
+      372
+    ],
+    "overlap_residue_range_2": [
+      363,
+      372
+    ],
+    "beginning_idx": 0,
+    "end_idx": 462,
+    "rmsd": 7.213519285786018,
+    "superfamily": [
+      1,
+      20,
+      200,
+      10
+    ]
+  },
+  {
+    "domain_name": "6od3I00",
+    "matching_domain_name": "6od5D00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      591,
+      600
+    ],
+    "overlap_residue_range_2": [
+      591,
+      600
+    ],
+    "beginning_idx": 0,
+    "end_idx": 59,
+    "rmsd": 7.242553094112254,
+    "superfamily": [
+      4,
+      10,
+      280,
+      10
+    ]
+  },
+  {
+    "domain_name": "3jrmQ01",
+    "matching_domain_name": "3ipmT01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      123,
+      132
+    ],
+    "overlap_residue_range_2": [
+      123,
+      132
+    ],
+    "beginning_idx": 0,
+    "end_idx": 218,
+    "rmsd": 7.245977112951427,
+    "superfamily": [
+      1,
+      20,
+      120,
+      180
+    ]
+  },
+  {
+    "domain_name": "4n9fL00",
+    "matching_domain_name": "2jhbA00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      54,
+      63
+    ],
+    "overlap_residue_range_2": [
+      56,
+      65
+    ],
+    "beginning_idx": 0,
+    "end_idx": 137,
+    "rmsd": 7.254224307489095,
+    "superfamily": [
+      2,
+      40,
+      250,
+      10
+    ]
+  },
+  {
+    "domain_name": "5v5eA00",
+    "matching_domain_name": "2pbkB00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      92,
+      101
+    ],
+    "overlap_residue_range_2": [
+      92,
+      101
+    ],
+    "beginning_idx": 0,
+    "end_idx": 190,
+    "rmsd": 7.270594422732715,
+    "superfamily": [
+      3,
+      20,
+      16,
+      10
+    ]
+  },
+  {
+    "domain_name": "1xfyE04",
+    "matching_domain_name": "1lvcC03",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      679,
+      688
+    ],
+    "overlap_residue_range_2": [
+      679,
+      688
+    ],
+    "beginning_idx": 0,
+    "end_idx": 507,
+    "rmsd": 7.2757645101081625,
+    "superfamily": [
+      1,
+      20,
+      140,
+      60
+    ]
+  },
+  {
+    "domain_name": "1ezpA02",
+    "matching_domain_name": "4mbpA01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      200,
+      209
+    ],
+    "overlap_residue_range_2": [
+      200,
+      209
+    ],
+    "beginning_idx": 0,
+    "end_idx": 370,
+    "rmsd": 7.287823551074279,
+    "superfamily": [
+      3,
+      40,
+      190,
+      10
+    ]
+  },
+  {
+    "domain_name": "3dkyD01",
+    "matching_domain_name": "4u87A01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      127,
+      136
+    ],
+    "overlap_residue_range_2": [
+      127,
+      136
+    ],
+    "beginning_idx": 0,
+    "end_idx": 190,
+    "rmsd": 7.312099660620346,
+    "superfamily": [
+      3,
+      40,
+      1310,
+      30
+    ]
+  },
+  {
+    "domain_name": "1n3sD02",
+    "matching_domain_name": "1n3rD02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      22,
+      31
+    ],
+    "overlap_residue_range_2": [
+      22,
+      31
+    ],
+    "beginning_idx": 0,
+    "end_idx": 221,
+    "rmsd": 7.313107724150685,
+    "superfamily": [
+      3,
+      30,
+      1130,
+      10
+    ]
+  },
+  {
+    "domain_name": "5ui5V01",
+    "matching_domain_name": "2k9lA00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      99,
+      108
+    ],
+    "overlap_residue_range_2": [
+      99,
+      108
+    ],
+    "beginning_idx": 0,
+    "end_idx": 63,
+    "rmsd": 7.3154269044079046,
+    "superfamily": [
+      1,
+      10,
+      10,
+      1330
+    ]
+  },
+  {
+    "domain_name": "5q2wA02",
+    "matching_domain_name": "5nzyA02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      965,
+      974
+    ],
+    "overlap_residue_range_2": [
+      965,
+      974
+    ],
+    "beginning_idx": 0,
+    "end_idx": 341,
+    "rmsd": 7.317544638783923,
+    "superfamily": [
+      3,
+      40,
+      50,
+      12650
+    ]
+  },
+  {
+    "domain_name": "5dwkE00",
+    "matching_domain_name": "4up6C00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      83,
+      92
+    ],
+    "overlap_residue_range_2": [
+      83,
+      92
+    ],
+    "beginning_idx": 0,
+    "end_idx": 84,
+    "rmsd": 7.363878143978369,
+    "superfamily": [
+      1,
+      10,
+      287,
+      3610
+    ]
+  },
+  {
+    "domain_name": "2bjnB00",
+    "matching_domain_name": "2cfhC00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      22,
+      31
+    ],
+    "overlap_residue_range_2": [
+      20,
+      29
+    ],
+    "beginning_idx": 0,
+    "end_idx": 149,
+    "rmsd": 7.364567718692664,
+    "superfamily": [
+      3,
+      30,
+      1380,
+      20
+    ]
+  },
+  {
+    "domain_name": "3lsmB02",
+    "matching_domain_name": "2igmA02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      453,
+      462
+    ],
+    "overlap_residue_range_2": [
+      453,
+      462
+    ],
+    "beginning_idx": 0,
+    "end_idx": 576,
+    "rmsd": 7.375637354347683,
+    "superfamily": [
+      3,
+      30,
+      1920,
+      50
+    ]
+  },
+  {
+    "domain_name": "4jjgB02",
+    "matching_domain_name": "5ok4A02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      184,
+      193
+    ],
+    "overlap_residue_range_2": [
+      184,
+      193
+    ],
+    "beginning_idx": 0,
+    "end_idx": 344,
+    "rmsd": 7.379398185517828,
+    "superfamily": [
+      1,
+      20,
+      120,
+      1300
+    ]
+  },
+  {
+    "domain_name": "4n7rA01",
+    "matching_domain_name": "5yjlA01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      206,
+      215
+    ],
+    "overlap_residue_range_2": [
+      206,
+      215
+    ],
+    "beginning_idx": 0,
+    "end_idx": 416,
+    "rmsd": 7.385589395736363,
+    "superfamily": [
+      3,
+      30,
+      460,
+      30
+    ]
+  },
+  {
+    "domain_name": "1j1hA00",
+    "matching_domain_name": "2czjA00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      59,
+      68
+    ],
+    "overlap_residue_range_2": [
+      59,
+      68
+    ],
+    "beginning_idx": 0,
+    "end_idx": 122,
+    "rmsd": 7.42557187772927,
+    "superfamily": [
+      2,
+      40,
+      280,
+      10
+    ]
+  },
+  {
+    "domain_name": "3tbiB02",
+    "matching_domain_name": "4llgC08",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      889,
+      898
+    ],
+    "overlap_residue_range_2": [
+      889,
+      898
+    ],
+    "beginning_idx": 1,
+    "end_idx": 228,
+    "rmsd": 7.476908351071136,
+    "superfamily": [
+      6,
+      10,
+      140,
+      1670
+    ]
+  },
+  {
+    "domain_name": "4r8kA02",
+    "matching_domain_name": "4r8lC02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      307,
+      316
+    ],
+    "overlap_residue_range_2": [
+      307,
+      316
+    ],
+    "beginning_idx": 0,
+    "end_idx": 354,
+    "rmsd": 7.485369901613442,
+    "superfamily": [
+      3,
+      40,
+      50,
+      40
+    ]
+  },
+  {
+    "domain_name": "1t2pA00",
+    "matching_domain_name": "1t2oC00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      168,
+      177
+    ],
+    "overlap_residue_range_2": [
+      168,
+      177
+    ],
+    "beginning_idx": 0,
+    "end_idx": 144,
+    "rmsd": 7.4860805779169555,
+    "superfamily": [
+      2,
+      40,
+      260,
+      10
+    ]
+  },
+  {
+    "domain_name": "6bavA00",
+    "matching_domain_name": "6bauB00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      349,
+      358
+    ],
+    "overlap_residue_range_2": [
+      349,
+      358
+    ],
+    "beginning_idx": 0,
+    "end_idx": 408,
+    "rmsd": 7.504361097761706,
+    "superfamily": [
+      1,
+      10,
+      3860,
+      10
+    ]
+  },
+  {
+    "domain_name": "2wwvC00",
+    "matching_domain_name": "2lrkA00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      62,
+      71
+    ],
+    "overlap_residue_range_2": [
+      62,
+      71
+    ],
+    "beginning_idx": 0,
+    "end_idx": 103,
+    "rmsd": 7.51897584541318,
+    "superfamily": [
+      1,
+      20,
+      58,
+      80
+    ]
+  },
+  {
+    "domain_name": "4x9wA01",
+    "matching_domain_name": "4habA01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      498,
+      507
+    ],
+    "overlap_residue_range_2": [
+      498,
+      507
+    ],
+    "beginning_idx": 0,
+    "end_idx": 222,
+    "rmsd": 7.552441532246556,
+    "superfamily": [
+      3,
+      30,
+      1120,
+      30
+    ]
+  },
+  {
+    "domain_name": "4gtdC00",
+    "matching_domain_name": "1o27A00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      30,
+      39
+    ],
+    "overlap_residue_range_2": [
+      30,
+      39
+    ],
+    "beginning_idx": 0,
+    "end_idx": 215,
+    "rmsd": 7.564700284887045,
+    "superfamily": [
+      3,
+      30,
+      1360,
+      170
+    ]
+  },
+  {
+    "domain_name": "1pqxA00",
+    "matching_domain_name": "2m8wA00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      22,
+      31
+    ],
+    "overlap_residue_range_2": [
+      22,
+      31
+    ],
+    "beginning_idx": 0,
+    "end_idx": 91,
+    "rmsd": 7.566410058326484,
+    "superfamily": [
+      3,
+      30,
+      1370,
+      70
+    ]
+  },
+  {
+    "domain_name": "5yveA01",
+    "matching_domain_name": "5svlA01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      192,
+      201
+    ],
+    "overlap_residue_range_2": [
+      192,
+      201
+    ],
+    "beginning_idx": 0,
+    "end_idx": 326,
+    "rmsd": 7.608373787776612,
+    "superfamily": [
+      1,
+      10,
+      287,
+      940
+    ]
+  },
+  {
+    "domain_name": "6nfoB01",
+    "matching_domain_name": "4o68A01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      209,
+      218
+    ],
+    "overlap_residue_range_2": [
+      209,
+      218
+    ],
+    "beginning_idx": 0,
+    "end_idx": 357,
+    "rmsd": 7.609274818857467,
+    "superfamily": [
+      1,
+      10,
+      1410,
+      40
+    ]
+  },
+  {
+    "domain_name": "2y22C00",
+    "matching_domain_name": "4m5sA00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      102,
+      111
+    ],
+    "overlap_residue_range_2": [
+      102,
+      111
+    ],
+    "beginning_idx": 0,
+    "end_idx": 74,
+    "rmsd": 7.609602879699739,
+    "superfamily": [
+      2,
+      60,
+      40,
+      790
+    ]
+  },
+  {
+    "domain_name": "4a59B02",
+    "matching_domain_name": "4kh6B02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      459,
+      468
+    ],
+    "overlap_residue_range_2": [
+      459,
+      468
+    ],
+    "beginning_idx": 0,
+    "end_idx": 593,
+    "rmsd": 7.6142686487207625,
+    "superfamily": [
+      3,
+      30,
+      420,
+      540
+    ]
+  },
+  {
+    "domain_name": "2q5qA03",
+    "matching_domain_name": "2nxwA01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      282,
+      291
+    ],
+    "overlap_residue_range_2": [
+      282,
+      291
+    ],
+    "beginning_idx": 0,
+    "end_idx": 537,
+    "rmsd": 7.660841929923226,
+    "superfamily": [
+      3,
+      40,
+      50,
+      970
+    ]
+  },
+  {
+    "domain_name": "2cg3A01",
+    "matching_domain_name": "5a23B01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      272,
+      281
+    ],
+    "overlap_residue_range_2": [
+      272,
+      281
+    ],
+    "beginning_idx": 0,
+    "end_idx": 627,
+    "rmsd": 7.665041290654462,
+    "superfamily": [
+      3,
+      60,
+      15,
+      30
+    ]
+  },
+  {
+    "domain_name": "4j2xC01",
+    "matching_domain_name": "6dksC01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      439,
+      448
+    ],
+    "overlap_residue_range_2": [
+      439,
+      448
+    ],
+    "beginning_idx": 0,
+    "end_idx": 421,
+    "rmsd": 7.6916136385272695,
+    "superfamily": [
+      2,
+      60,
+      40,
+      1450
+    ]
+  },
+  {
+    "domain_name": "2fsyC01",
+    "matching_domain_name": "3e8kB01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      297,
+      306
+    ],
+    "overlap_residue_range_2": [
+      297,
+      306
+    ],
+    "beginning_idx": 0,
+    "end_idx": 259,
+    "rmsd": 7.696761448385546,
+    "superfamily": [
+      3,
+      30,
+      2400,
+      10
+    ]
+  },
+  {
+    "domain_name": "3dpqF01",
+    "matching_domain_name": "4r5iA01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      503,
+      512
+    ],
+    "overlap_residue_range_2": [
+      503,
+      512
+    ],
+    "beginning_idx": 0,
+    "end_idx": 214,
+    "rmsd": 7.699283839381529,
+    "superfamily": [
+      2,
+      60,
+      34,
+      10
+    ]
+  },
+  {
+    "domain_name": "3e27B00",
+    "matching_domain_name": "3mmxC00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      134,
+      143
+    ],
+    "overlap_residue_range_2": [
+      134,
+      143
+    ],
+    "beginning_idx": 0,
+    "end_idx": 188,
+    "rmsd": 7.732545257967489,
+    "superfamily": [
+      3,
+      40,
+      50,
+      620
+    ]
+  },
+  {
+    "domain_name": "1ouqF02",
+    "matching_domain_name": "3c29A01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      200,
+      209
+    ],
+    "overlap_residue_range_2": [
+      200,
+      209
+    ],
+    "beginning_idx": 0,
+    "end_idx": 322,
+    "rmsd": 7.748253009244473,
+    "superfamily": [
+      1,
+      10,
+      150,
+      130
+    ]
+  },
+  {
+    "domain_name": "4bikA03",
+    "matching_domain_name": "1s3rA03",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      445,
+      454
+    ],
+    "overlap_residue_range_2": [
+      445,
+      454
+    ],
+    "beginning_idx": 0,
+    "end_idx": 473,
+    "rmsd": 7.759750369695515,
+    "superfamily": [
+      3,
+      40,
+      30,
+      40
+    ]
+  },
+  {
+    "domain_name": "5wfeD02",
+    "matching_domain_name": "5vvkC02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      165,
+      174
+    ],
+    "overlap_residue_range_2": [
+      165,
+      174
+    ],
+    "beginning_idx": 0,
+    "end_idx": 261,
+    "rmsd": 7.772462565206488,
+    "superfamily": [
+      1,
+      20,
+      120,
+      920
+    ]
+  },
+  {
+    "domain_name": "2vmkB02",
+    "matching_domain_name": "5f6cB02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      395,
+      404
+    ],
+    "overlap_residue_range_2": [
+      395,
+      404
+    ],
+    "beginning_idx": 0,
+    "end_idx": 509,
+    "rmsd": 7.77821834587881,
+    "superfamily": [
+      3,
+      40,
+      1260,
+      20
+    ]
+  },
+  {
+    "domain_name": "2lynC00",
+    "matching_domain_name": "5utgA00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      74,
+      83
+    ],
+    "overlap_residue_range_2": [
+      74,
+      83
+    ],
+    "beginning_idx": 0,
+    "end_idx": 127,
+    "rmsd": 7.8133453655674145,
+    "superfamily": [
+      1,
+      20,
+      150,
+      10
+    ]
+  },
+  {
+    "domain_name": "4hitD00",
+    "matching_domain_name": "3f1jA00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      27,
+      36
+    ],
+    "overlap_residue_range_2": [
+      27,
+      36
+    ],
+    "beginning_idx": 0,
+    "end_idx": 135,
+    "rmsd": 7.854746003805855,
+    "superfamily": [
+      2,
+      70,
+      20,
+      40
+    ]
+  },
+  {
+    "domain_name": "2oevA02",
+    "matching_domain_name": "2oexA01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      471,
+      480
+    ],
+    "overlap_residue_range_2": [
+      471,
+      480
+    ],
+    "beginning_idx": 0,
+    "end_idx": 338,
+    "rmsd": 7.865456262857165,
+    "superfamily": [
+      1,
+      20,
+      120,
+      560
+    ]
+  },
+  {
+    "domain_name": "4n93B01",
+    "matching_domain_name": "4x5aA01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      139,
+      148
+    ],
+    "overlap_residue_range_2": [
+      139,
+      148
+    ],
+    "beginning_idx": 0,
+    "end_idx": 347,
+    "rmsd": 7.8774639026558635,
+    "superfamily": [
+      1,
+      20,
+      970,
+      10
+    ]
+  },
+  {
+    "domain_name": "3pnmA01",
+    "matching_domain_name": "3pnlA01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      136,
+      145
+    ],
+    "overlap_residue_range_2": [
+      136,
+      145
+    ],
+    "beginning_idx": 0,
+    "end_idx": 347,
+    "rmsd": 7.893119829821439,
+    "superfamily": [
+      3,
+      40,
+      50,
+      10440
+    ]
+  },
+  {
+    "domain_name": "4gvrA01",
+    "matching_domain_name": "4gvqB01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      271,
+      280
+    ],
+    "overlap_residue_range_2": [
+      271,
+      280
+    ],
+    "beginning_idx": 0,
+    "end_idx": 315,
+    "rmsd": 7.900607762133616,
+    "superfamily": [
+      3,
+      10,
+      340,
+      11
+    ]
+  },
+  {
+    "domain_name": "4iyhB00",
+    "matching_domain_name": "4j41E00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      39,
+      48
+    ],
+    "overlap_residue_range_2": [
+      39,
+      48
+    ],
+    "beginning_idx": 0,
+    "end_idx": 80,
+    "rmsd": 7.908200522810766,
+    "superfamily": [
+      1,
+      10,
+      287,
+      850
+    ]
+  },
+  {
+    "domain_name": "2k1dA00",
+    "matching_domain_name": "1qm1A00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      160,
+      169
+    ],
+    "overlap_residue_range_2": [
+      160,
+      169
+    ],
+    "beginning_idx": 0,
+    "end_idx": 104,
+    "rmsd": 7.928579768371831,
+    "superfamily": [
+      1,
+      10,
+      790,
+      10
+    ]
+  },
+  {
+    "domain_name": "1umfC00",
+    "matching_domain_name": "1um0B00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      51,
+      60
+    ],
+    "overlap_residue_range_2": [
+      51,
+      60
+    ],
+    "beginning_idx": 0,
+    "end_idx": 365,
+    "rmsd": 7.92918311776988,
+    "superfamily": [
+      3,
+      60,
+      150,
+      10
+    ]
+  },
+  {
+    "domain_name": "2mx8A01",
+    "matching_domain_name": "2mx9B01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      54,
+      63
+    ],
+    "overlap_residue_range_2": [
+      54,
+      63
+    ],
+    "beginning_idx": 0,
+    "end_idx": 133,
+    "rmsd": 7.9297573470249505,
+    "superfamily": [
+      1,
+      10,
+      274,
+      70
+    ]
+  },
+  {
+    "domain_name": "4gokG00",
+    "matching_domain_name": "3rbqD00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      103,
+      126
+    ],
+    "overlap_residue_range_2": [
+      103,
+      126
+    ],
+    "beginning_idx": 0,
+    "end_idx": 164,
+    "rmsd": 7.93034926063361,
+    "superfamily": [
+      2,
+      70,
+      50,
+      40
+    ]
+  },
+  {
+    "domain_name": "5mosA02",
+    "matching_domain_name": "2tgdA01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      147,
+      156
+    ],
+    "overlap_residue_range_2": [
+      147,
+      156
+    ],
+    "beginning_idx": 0,
+    "end_idx": 222,
+    "rmsd": 7.933794607316255,
+    "superfamily": [
+      2,
+      40,
+      10,
+      10
+    ]
+  },
+  {
+    "domain_name": "4jd4A02",
+    "matching_domain_name": "2djlB02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      130,
+      139
+    ],
+    "overlap_residue_range_2": [
+      130,
+      139
+    ],
+    "beginning_idx": 0,
+    "end_idx": 312,
+    "rmsd": 7.957043005159093,
+    "superfamily": [
+      2,
+      30,
+      26,
+      10
+    ]
+  },
+  {
+    "domain_name": "209lA00",
+    "matching_domain_name": "3c80A00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      119,
+      128
+    ],
+    "overlap_residue_range_2": [
+      119,
+      128
+    ],
+    "beginning_idx": 0,
+    "end_idx": 165,
+    "rmsd": 8.003274656660672,
+    "superfamily": [
+      1,
+      10,
+      530,
+      40
+    ]
+  },
+  {
+    "domain_name": "1x9tA02",
+    "matching_domain_name": "1x9pA02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      486,
+      495
+    ],
+    "overlap_residue_range_2": [
+      486,
+      495
+    ],
+    "beginning_idx": 0,
+    "end_idx": 457,
+    "rmsd": 8.009876695470275,
+    "superfamily": [
+      3,
+      90,
+      1620,
+      10
+    ]
+  },
+  {
+    "domain_name": "4mzgB00",
+    "matching_domain_name": "5y5wD00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      194,
+      219
+    ],
+    "overlap_residue_range_2": [
+      194,
+      219
+    ],
+    "beginning_idx": 3,
+    "end_idx": 196,
+    "rmsd": 8.012205179383198,
+    "superfamily": [
+      2,
+      80,
+      10,
+      70
+    ]
+  },
+  {
+    "domain_name": "2ykqC03",
+    "matching_domain_name": "2ldyA02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      247,
+      256
+    ],
+    "overlap_residue_range_2": [
+      247,
+      256
+    ],
+    "beginning_idx": 2,
+    "end_idx": 168,
+    "rmsd": 8.036239342380014,
+    "superfamily": [
+      3,
+      30,
+      250,
+      20
+    ]
+  },
+  {
+    "domain_name": "1q5fA01",
+    "matching_domain_name": "3fhvA00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      51,
+      60
+    ],
+    "overlap_residue_range_2": [
+      51,
+      60
+    ],
+    "beginning_idx": 0,
+    "end_idx": 150,
+    "rmsd": 8.048319953322563,
+    "superfamily": [
+      3,
+      30,
+      1690,
+      10
+    ]
+  },
+  {
+    "domain_name": "4bfpA00",
+    "matching_domain_name": "4buwA00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      1111,
+      1122
+    ],
+    "overlap_residue_range_2": [
+      1111,
+      1122
+    ],
+    "beginning_idx": 0,
+    "end_idx": 208,
+    "rmsd": 8.052316717328969,
+    "superfamily": [
+      3,
+      90,
+      228,
+      10
+    ]
+  },
+  {
+    "domain_name": "1n7lA00",
+    "matching_domain_name": "2kyvB00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      18,
+      27
+    ],
+    "overlap_residue_range_2": [
+      17,
+      26
+    ],
+    "beginning_idx": 0,
+    "end_idx": 52,
+    "rmsd": 8.065441214139941,
+    "superfamily": [
+      1,
+      20,
+      5,
+      290
+    ]
+  },
+  {
+    "domain_name": "3onnA02",
+    "matching_domain_name": "3nuqA01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      76,
+      85
+    ],
+    "overlap_residue_range_2": [
+      101,
+      110
+    ],
+    "beginning_idx": 0,
+    "end_idx": 248,
+    "rmsd": 8.071271541567375,
+    "superfamily": [
+      1,
+      10,
+      150,
+      450
+    ]
+  },
+  {
+    "domain_name": "6nsjD00",
+    "matching_domain_name": "6nskE00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      69,
+      78
+    ],
+    "overlap_residue_range_2": [
+      69,
+      78
+    ],
+    "beginning_idx": 0,
+    "end_idx": 182,
+    "rmsd": 8.101694259795304,
+    "superfamily": [
+      1,
+      25,
+      40,
+      600
+    ]
+  },
+  {
+    "domain_name": "6dhdE01",
+    "matching_domain_name": "6dqgC01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      419,
+      428
+    ],
+    "overlap_residue_range_2": [
+      423,
+      432
+    ],
+    "beginning_idx": 0,
+    "end_idx": 496,
+    "rmsd": 8.145085341206396,
+    "superfamily": [
+      1,
+      10,
+      287,
+      140
+    ]
+  },
+  {
+    "domain_name": "6b0iA01",
+    "matching_domain_name": "6d88C01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      43,
+      52
+    ],
+    "overlap_residue_range_2": [
+      43,
+      52
+    ],
+    "beginning_idx": 0,
+    "end_idx": 440,
+    "rmsd": 8.261289671621105,
+    "superfamily": [
+      3,
+      40,
+      50,
+      1440
+    ]
+  },
+  {
+    "domain_name": "2ezvA02",
+    "matching_domain_name": "2f03C02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      207,
+      216
+    ],
+    "overlap_residue_range_2": [
+      207,
+      216
+    ],
+    "beginning_idx": 1,
+    "end_idx": 269,
+    "rmsd": 8.268611376106719,
+    "superfamily": [
+      2,
+      40,
+      50,
+      610
+    ]
+  },
+  {
+    "domain_name": "6asxG01",
+    "matching_domain_name": "5ualH01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      189,
+      198
+    ],
+    "overlap_residue_range_2": [
+      189,
+      198
+    ],
+    "beginning_idx": 0,
+    "end_idx": 218,
+    "rmsd": 8.278342232848434,
+    "superfamily": [
+      3,
+      30,
+      1360,
+      10
+    ]
+  },
+  {
+    "domain_name": "4d1aA00",
+    "matching_domain_name": "2x79A00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      154,
+      163
+    ],
+    "overlap_residue_range_2": [
+      154,
+      163
+    ],
+    "beginning_idx": 0,
+    "end_idx": 456,
+    "rmsd": 8.279315570367384,
+    "superfamily": [
+      1,
+      10,
+      4160,
+      10
+    ]
+  },
+  {
+    "domain_name": "3da3B01",
+    "matching_domain_name": "2xmxA01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      29,
+      38
+    ],
+    "overlap_residue_range_2": [
+      29,
+      38
+    ],
+    "beginning_idx": 0,
+    "end_idx": 270,
+    "rmsd": 8.284197977837401,
+    "superfamily": [
+      1,
+      20,
+      1440,
+      280
+    ]
+  },
+  {
+    "domain_name": "6bhnA00",
+    "matching_domain_name": "6bhoA00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      648,
+      657
+    ],
+    "overlap_residue_range_2": [
+      648,
+      657
+    ],
+    "beginning_idx": 0,
+    "end_idx": 156,
+    "rmsd": 8.330625869332922,
+    "superfamily": [
+      3,
+      30,
+      450,
+      40
+    ]
+  },
+  {
+    "domain_name": "2c5hA01",
+    "matching_domain_name": "2v7wC01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      97,
+      106
+    ],
+    "overlap_residue_range_2": [
+      97,
+      106
+    ],
+    "beginning_idx": 0,
+    "end_idx": 291,
+    "rmsd": 8.344690234746837,
+    "superfamily": [
+      3,
+      40,
+      50,
+      10790
+    ]
+  },
+  {
+    "domain_name": "3qrpA02",
+    "matching_domain_name": "2y9hA02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      154,
+      163
+    ],
+    "overlap_residue_range_2": [
+      154,
+      163
+    ],
+    "beginning_idx": 2,
+    "end_idx": 213,
+    "rmsd": 8.351054231260532,
+    "superfamily": [
+      3,
+      30,
+      70,
+      1210
+    ]
+  },
+  {
+    "domain_name": "3g3tA00",
+    "matching_domain_name": "3g3rA00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      285,
+      294
+    ],
+    "overlap_residue_range_2": [
+      285,
+      294
+    ],
+    "beginning_idx": 0,
+    "end_idx": 281,
+    "rmsd": 8.371848065617828,
+    "superfamily": [
+      3,
+      20,
+      100,
+      30
+    ]
+  },
+  {
+    "domain_name": "3zxvF01",
+    "matching_domain_name": "4xycB01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      213,
+      222
+    ],
+    "overlap_residue_range_2": [
+      209,
+      218
+    ],
+    "beginning_idx": 0,
+    "end_idx": 474,
+    "rmsd": 8.379693409435173,
+    "superfamily": [
+      3,
+      10,
+      20,
+      70
+    ]
+  },
+  {
+    "domain_name": "1n8bC02",
+    "matching_domain_name": "5hx2C02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      175,
+      184
+    ],
+    "overlap_residue_range_2": [
+      175,
+      184
+    ],
+    "beginning_idx": 0,
+    "end_idx": 328,
+    "rmsd": 8.423828709252133,
+    "superfamily": [
+      2,
+      170,
+      290,
+      10
+    ]
+  },
+  {
+    "domain_name": "2b9bA01",
+    "matching_domain_name": "4wsgB01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      101,
+      110
+    ],
+    "overlap_residue_range_2": [
+      99,
+      110
+    ],
+    "beginning_idx": 0,
+    "end_idx": 476,
+    "rmsd": 8.466668360839625,
+    "superfamily": [
+      2,
+      40,
+      490,
+      10
+    ]
+  },
+  {
+    "domain_name": "5dyiF02",
+    "matching_domain_name": "5ifsD02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      314,
+      323
+    ],
+    "overlap_residue_range_2": [
+      314,
+      323
+    ],
+    "beginning_idx": 0,
+    "end_idx": 438,
+    "rmsd": 8.498865478044104,
+    "superfamily": [
+      3,
+      10,
+      330,
+      10
+    ]
+  },
+  {
+    "domain_name": "4qsmF02",
+    "matching_domain_name": "1i10B02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      101,
+      110
+    ],
+    "overlap_residue_range_2": [
+      100,
+      109
+    ],
+    "beginning_idx": 0,
+    "end_idx": 331,
+    "rmsd": 8.568918164757259,
+    "superfamily": [
+      3,
+      90,
+      110,
+      10
+    ]
+  },
+  {
+    "domain_name": "5px2A01",
+    "matching_domain_name": "5pyqB01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      802,
+      811
+    ],
+    "overlap_residue_range_2": [
+      802,
+      811
+    ],
+    "beginning_idx": 0,
+    "end_idx": 176,
+    "rmsd": 8.589796066207287,
+    "superfamily": [
+      3,
+      30,
+      40,
+      10
+    ]
+  },
+  {
+    "domain_name": "5py6B02",
+    "matching_domain_name": "5pwmA02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      800,
+      809
+    ],
+    "overlap_residue_range_2": [
+      800,
+      809
+    ],
+    "beginning_idx": 0,
+    "end_idx": 176,
+    "rmsd": 8.609777459221467,
+    "superfamily": [
+      1,
+      20,
+      920,
+      10
+    ]
+  },
+  {
+    "domain_name": "5n9rB02",
+    "matching_domain_name": "5jtjA02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      498,
+      507
+    ],
+    "overlap_residue_range_2": [
+      498,
+      507
+    ],
+    "beginning_idx": 0,
+    "end_idx": 344,
+    "rmsd": 8.69028616646406,
+    "superfamily": [
+      2,
+      20,
+      210,
+      10
+    ]
+  },
+  {
+    "domain_name": "3wx1A00",
+    "matching_domain_name": "5v3oC01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      339,
+      348
+    ],
+    "overlap_residue_range_2": [
+      336,
+      345
+    ],
+    "beginning_idx": 2,
+    "end_idx": 108,
+    "rmsd": 8.69175233635389,
+    "superfamily": [
+      2,
+      170,
+      150,
+      20
+    ]
+  },
+  {
+    "domain_name": "2rcrH02",
+    "matching_domain_name": "2uwtH02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      40,
+      49
+    ],
+    "overlap_residue_range_2": [
+      40,
+      49
+    ],
+    "beginning_idx": 0,
+    "end_idx": 240,
+    "rmsd": 8.706252974462581,
+    "superfamily": [
+      3,
+      90,
+      50,
+      10
+    ]
+  },
+  {
+    "domain_name": "1gdtB02",
+    "matching_domain_name": "1zr4B02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      35,
+      44
+    ],
+    "overlap_residue_range_2": [
+      35,
+      44
+    ],
+    "beginning_idx": 1,
+    "end_idx": 182,
+    "rmsd": 8.789652082601101,
+    "superfamily": [
+      6,
+      10,
+      250,
+      10
+    ]
+  },
+  {
+    "domain_name": "5j1tB00",
+    "matching_domain_name": "5j1sB00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      431,
+      440
+    ],
+    "overlap_residue_range_2": [
+      431,
+      440
+    ],
+    "beginning_idx": 0,
+    "end_idx": 235,
+    "rmsd": 8.87183974916865,
+    "superfamily": [
+      3,
+      40,
+      50,
+      12190
+    ]
+  },
+  {
+    "domain_name": "6dpvH03",
+    "matching_domain_name": "4x20D03",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      275,
+      284
+    ],
+    "overlap_residue_range_2": [
+      275,
+      284
+    ],
+    "beginning_idx": 0,
+    "end_idx": 425,
+    "rmsd": 8.913283907031119,
+    "superfamily": [
+      1,
+      10,
+      287,
+      600
+    ]
+  },
+  {
+    "domain_name": "5ytkE02",
+    "matching_domain_name": "4bvhA02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      158,
+      167
+    ],
+    "overlap_residue_range_2": [
+      158,
+      167
+    ],
+    "beginning_idx": 0,
+    "end_idx": 272,
+    "rmsd": 8.929897596639094,
+    "superfamily": [
+      3,
+      30,
+      1600,
+      10
+    ]
+  },
+  {
+    "domain_name": "2j8jA00",
+    "matching_domain_name": "2j8lA00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      313,
+      322
+    ],
+    "overlap_residue_range_2": [
+      313,
+      322
+    ],
+    "beginning_idx": 0,
+    "end_idx": 90,
+    "rmsd": 8.963250292995559,
+    "superfamily": [
+      3,
+      50,
+      4,
+      10
+    ]
+  },
+  {
+    "domain_name": "1cg3A02",
+    "matching_domain_name": "1adeB02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      120,
+      129
+    ],
+    "overlap_residue_range_2": [
+      120,
+      129
+    ],
+    "beginning_idx": 0,
+    "end_idx": 431,
+    "rmsd": 8.967815686784622,
+    "superfamily": [
+      1,
+      10,
+      300,
+      10
+    ]
+  },
+  {
+    "domain_name": "2ik8C02",
+    "matching_domain_name": "4g5qD02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      232,
+      241
+    ],
+    "overlap_residue_range_2": [
+      232,
+      241
+    ],
+    "beginning_idx": 0,
+    "end_idx": 316,
+    "rmsd": 9.00439385141015,
+    "superfamily": [
+      1,
+      10,
+      400,
+      10
+    ]
+  },
+  {
+    "domain_name": "1jmwA00",
+    "matching_domain_name": "1vltB00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      80,
+      89
+    ],
+    "overlap_residue_range_2": [
+      80,
+      89
+    ],
+    "beginning_idx": 0,
+    "end_idx": 143,
+    "rmsd": 9.042007741230558,
+    "superfamily": [
+      1,
+      20,
+      120,
+      30
+    ]
+  },
+  {
+    "domain_name": "3fssA01",
+    "matching_domain_name": "3tvvB01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      147,
+      156
+    ],
+    "overlap_residue_range_2": [
+      147,
+      156
+    ],
+    "beginning_idx": 0,
+    "end_idx": 222,
+    "rmsd": 9.050147519200282,
+    "superfamily": [
+      2,
+      30,
+      29,
+      120
+    ]
+  },
+  {
+    "domain_name": "3at1C02",
+    "matching_domain_name": "3csuC02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      237,
+      246
+    ],
+    "overlap_residue_range_2": [
+      237,
+      246
+    ],
+    "beginning_idx": 0,
+    "end_idx": 308,
+    "rmsd": 9.072057091625219,
+    "superfamily": [
+      3,
+      40,
+      50,
+      1370
+    ]
+  },
+  {
+    "domain_name": "4lf3A02",
+    "matching_domain_name": "4xi5C02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      148,
+      157
+    ],
+    "overlap_residue_range_2": [
+      148,
+      157
+    ],
+    "beginning_idx": 0,
+    "end_idx": 211,
+    "rmsd": 9.141467890176,
+    "superfamily": [
+      2,
+      60,
+      40,
+      10
+    ]
+  },
+  {
+    "domain_name": "3rh4A02",
+    "matching_domain_name": "7icoA02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      299,
+      308
+    ],
+    "overlap_residue_range_2": [
+      299,
+      308
+    ],
+    "beginning_idx": 0,
+    "end_idx": 326,
+    "rmsd": 9.277720924050216,
+    "superfamily": [
+      1,
+      10,
+      150,
+      20
+    ]
+  },
+  {
+    "domain_name": "3scjE01",
+    "matching_domain_name": "2ghvC01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      349,
+      358
+    ],
+    "overlap_residue_range_2": [
+      349,
+      358
+    ],
+    "beginning_idx": 0,
+    "end_idx": 180,
+    "rmsd": 9.320169076244788,
+    "superfamily": [
+      3,
+      30,
+      70,
+      1840
+    ]
+  },
+  {
+    "domain_name": "1owbA01",
+    "matching_domain_name": "1nxeA01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      276,
+      285
+    ],
+    "overlap_residue_range_2": [
+      276,
+      285
+    ],
+    "beginning_idx": 0,
+    "end_idx": 426,
+    "rmsd": 9.368038889418402,
+    "superfamily": [
+      2,
+      20,
+      28,
+      60
+    ]
+  },
+  {
+    "domain_name": "4l2zB01",
+    "matching_domain_name": "4ws9B01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      137,
+      146
+    ],
+    "overlap_residue_range_2": [
+      137,
+      146
+    ],
+    "beginning_idx": 0,
+    "end_idx": 396,
+    "rmsd": 9.376321202407608,
+    "superfamily": [
+      3,
+      30,
+      300,
+      280
+    ]
+  },
+  {
+    "domain_name": "4xgvA00",
+    "matching_domain_name": "4xgwB00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      115,
+      124
+    ],
+    "overlap_residue_range_2": [
+      115,
+      124
+    ],
+    "beginning_idx": 0,
+    "end_idx": 310,
+    "rmsd": 9.402389477362167,
+    "superfamily": [
+      3,
+      10,
+      520,
+      10
+    ]
+  },
+  {
+    "domain_name": "9icpA01",
+    "matching_domain_name": "5vrxA01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      299,
+      308
+    ],
+    "overlap_residue_range_2": [
+      299,
+      308
+    ],
+    "beginning_idx": 0,
+    "end_idx": 326,
+    "rmsd": 9.487889068803062,
+    "superfamily": [
+      1,
+      10,
+      150,
+      110
+    ]
+  },
+  {
+    "domain_name": "1v97A05",
+    "matching_domain_name": "3nvwK03",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      424,
+      433
+    ],
+    "overlap_residue_range_2": [
+      424,
+      433
+    ],
+    "beginning_idx": 0,
+    "end_idx": 305,
+    "rmsd": 9.496953846723414,
+    "superfamily": [
+      3,
+      30,
+      390,
+      50
+    ]
+  },
+  {
+    "domain_name": "3hvdC04",
+    "matching_domain_name": "3kwvA04",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      421,
+      430
+    ],
+    "overlap_residue_range_2": [
+      421,
+      430
+    ],
+    "beginning_idx": 0,
+    "end_idx": 525,
+    "rmsd": 9.540165865105038,
+    "superfamily": [
+      2,
+      60,
+      40,
+      810
+    ]
+  },
+  {
+    "domain_name": "2axtb02",
+    "matching_domain_name": "1s5lB02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      5121,
+      5130
+    ],
+    "overlap_residue_range_2": [
+      121,
+      130
+    ],
+    "beginning_idx": 0,
+    "end_idx": 476,
+    "rmsd": 9.603380240665377,
+    "superfamily": [
+      3,
+      10,
+      680,
+      10
+    ]
+  },
+  {
+    "domain_name": "4md0B01",
+    "matching_domain_name": "6cqrB01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      106,
+      115
+    ],
+    "overlap_residue_range_2": [
+      106,
+      115
+    ],
+    "beginning_idx": 0,
+    "end_idx": 189,
+    "rmsd": 9.630412717410287,
+    "superfamily": [
+      3,
+      10,
+      320,
+      10
+    ]
+  },
+  {
+    "domain_name": "2f48B03",
+    "matching_domain_name": "1kzhA03",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      342,
+      351
+    ],
+    "overlap_residue_range_2": [
+      342,
+      351
+    ],
+    "beginning_idx": 0,
+    "end_idx": 550,
+    "rmsd": 9.677842611334999,
+    "superfamily": [
+      1,
+      10,
+      10,
+      480
+    ]
+  },
+  {
+    "domain_name": "1n43D00",
+    "matching_domain_name": "2g5lA00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      43,
+      52
+    ],
+    "overlap_residue_range_2": [
+      43,
+      52
+    ],
+    "beginning_idx": 0,
+    "end_idx": 118,
+    "rmsd": 9.711833141928818,
+    "superfamily": [
+      2,
+      40,
+      128,
+      30
+    ]
+  },
+  {
+    "domain_name": "1xi1A06",
+    "matching_domain_name": "2pylA06",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      303,
+      312
+    ],
+    "overlap_residue_range_2": [
+      303,
+      312
+    ],
+    "beginning_idx": 0,
+    "end_idx": 571,
+    "rmsd": 9.753009258836203,
+    "superfamily": [
+      4,
+      10,
+      80,
+      30
+    ]
+  },
+  {
+    "domain_name": "3rwrD02",
+    "matching_domain_name": "2qm4A02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      169,
+      178
+    ],
+    "overlap_residue_range_2": [
+      169,
+      178
+    ],
+    "beginning_idx": 1,
+    "end_idx": 224,
+    "rmsd": 9.790110277301746,
+    "superfamily": [
+      1,
+      10,
+      287,
+      450
+    ]
+  },
+  {
+    "domain_name": "5cb1B03",
+    "matching_domain_name": "1rztM04",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      533,
+      542
+    ],
+    "overlap_residue_range_2": [
+      533,
+      542
+    ],
+    "beginning_idx": 0,
+    "end_idx": 245,
+    "rmsd": 9.80291400167729,
+    "superfamily": [
+      3,
+      30,
+      210,
+      10
+    ]
+  },
+  {
+    "domain_name": "1m9xB00",
+    "matching_domain_name": "2n0tA00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      64,
+      73
+    ],
+    "overlap_residue_range_2": [
+      64,
+      73
+    ],
+    "beginning_idx": 0,
+    "end_idx": 164,
+    "rmsd": 9.817334494677912,
+    "superfamily": [
+      2,
+      40,
+      100,
+      10
+    ]
+  },
+  {
+    "domain_name": "1omsC00",
+    "matching_domain_name": "1w26A01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      41,
+      50
+    ],
+    "overlap_residue_range_2": [
+      41,
+      50
+    ],
+    "beginning_idx": 0,
+    "end_idx": 117,
+    "rmsd": 9.935060889610535,
+    "superfamily": [
+      3,
+      30,
+      70,
+      1050
+    ]
+  },
+  {
+    "domain_name": "3ts8D00",
+    "matching_domain_name": "2ahiD00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      117,
+      126
+    ],
+    "overlap_residue_range_2": [
+      117,
+      126
+    ],
+    "beginning_idx": 0,
+    "end_idx": 196,
+    "rmsd": 9.988858196666259,
+    "superfamily": [
+      2,
+      60,
+      40,
+      720
+    ]
+  },
+  {
+    "domain_name": "4p6iC01",
+    "matching_domain_name": "5dljB01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      161,
+      170
+    ],
+    "overlap_residue_range_2": [
+      161,
+      170
+    ],
+    "beginning_idx": 0,
+    "end_idx": 270,
+    "rmsd": 10.034380757246106,
+    "superfamily": [
+      3,
+      100,
+      10,
+      20
+    ]
+  },
+  {
+    "domain_name": "6agoD00",
+    "matching_domain_name": "2n1dB00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      274,
+      283
+    ],
+    "overlap_residue_range_2": [
+      274,
+      283
+    ],
+    "beginning_idx": 0,
+    "end_idx": 166,
+    "rmsd": 10.076020582287292,
+    "superfamily": [
+      1,
+      10,
+      274,
+      30
+    ]
+  },
+  {
+    "domain_name": "3iomB00",
+    "matching_domain_name": "1g2oB00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      60,
+      69
+    ],
+    "overlap_residue_range_2": [
+      60,
+      69
+    ],
+    "beginning_idx": 0,
+    "end_idx": 262,
+    "rmsd": 10.085438619301842,
+    "superfamily": [
+      3,
+      40,
+      50,
+      1580
+    ]
+  },
+  {
+    "domain_name": "4uwdA00",
+    "matching_domain_name": "5l9vB00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      245,
+      254
+    ],
+    "overlap_residue_range_2": [
+      245,
+      254
+    ],
+    "beginning_idx": 0,
+    "end_idx": 215,
+    "rmsd": 10.141933672185974,
+    "superfamily": [
+      2,
+      60,
+      120,
+      620
+    ]
+  },
+  {
+    "domain_name": "5wtwB00",
+    "matching_domain_name": "4bmgB00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      78,
+      87
+    ],
+    "overlap_residue_range_2": [
+      78,
+      87
+    ],
+    "beginning_idx": 0,
+    "end_idx": 142,
+    "rmsd": 10.292221029153048,
+    "superfamily": [
+      1,
+      10,
+      4090,
+      10
+    ]
+  },
+  {
+    "domain_name": "1zi7C02",
+    "matching_domain_name": "3spwA02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      351,
+      360
+    ],
+    "overlap_residue_range_2": [
+      351,
+      360
+    ],
+    "beginning_idx": 0,
+    "end_idx": 398,
+    "rmsd": 10.408393972856533,
+    "superfamily": [
+      6,
+      10,
+      140,
+      1150
+    ]
+  },
+  {
+    "domain_name": "1z7eB01",
+    "matching_domain_name": "4wkgC01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      498,
+      507
+    ],
+    "overlap_residue_range_2": [
+      498,
+      507
+    ],
+    "beginning_idx": 0,
+    "end_idx": 642,
+    "rmsd": 10.435972521710728,
+    "superfamily": [
+      3,
+      40,
+      50,
+      12230
+    ]
+  },
+  {
+    "domain_name": "4njnA00",
+    "matching_domain_name": "2nrfA00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      240,
+      249
+    ],
+    "overlap_residue_range_2": [
+      240,
+      249
+    ],
+    "beginning_idx": 0,
+    "end_idx": 182,
+    "rmsd": 10.439053552668224,
+    "superfamily": [
+      1,
+      20,
+      1540,
+      10
+    ]
+  },
+  {
+    "domain_name": "3a77C00",
+    "matching_domain_name": "5jejA00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      347,
+      356
+    ],
+    "overlap_residue_range_2": [
+      347,
+      356
+    ],
+    "beginning_idx": 0,
+    "end_idx": 234,
+    "rmsd": 10.572535117342547,
+    "superfamily": [
+      2,
+      60,
+      200,
+      10
+    ]
+  },
+  {
+    "domain_name": "3rfaA01",
+    "matching_domain_name": "5hr7B01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      159,
+      168
+    ],
+    "overlap_residue_range_2": [
+      159,
+      168
+    ],
+    "beginning_idx": 0,
+    "end_idx": 333,
+    "rmsd": 10.602017458955482,
+    "superfamily": [
+      1,
+      10,
+      150,
+      530
+    ]
+  },
+  {
+    "domain_name": "4jchB04",
+    "matching_domain_name": "1zhtA04",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      351,
+      360
+    ],
+    "overlap_residue_range_2": [
+      351,
+      360
+    ],
+    "beginning_idx": 0,
+    "end_idx": 436,
+    "rmsd": 10.743774000847951,
+    "superfamily": [
+      3,
+      30,
+      70,
+      3490
+    ]
+  },
+  {
+    "domain_name": "2fm9A00",
+    "matching_domain_name": "2fm8C01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      193,
+      202
+    ],
+    "overlap_residue_range_2": [
+      193,
+      202
+    ],
+    "beginning_idx": 3,
+    "end_idx": 204,
+    "rmsd": 10.788646983579131,
+    "superfamily": [
+      1,
+      10,
+      4150,
+      10
+    ]
+  },
+  {
+    "domain_name": "4cpkA01",
+    "matching_domain_name": "5m19B01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      578,
+      587
+    ],
+    "overlap_residue_range_2": [
+      578,
+      587
+    ],
+    "beginning_idx": 0,
+    "end_idx": 637,
+    "rmsd": 11.068637484673632,
+    "superfamily": [
+      3,
+      10,
+      450,
+      100
+    ]
+  },
+  {
+    "domain_name": "2c51B00",
+    "matching_domain_name": "1zdkC00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      69,
+      78
+    ],
+    "overlap_residue_range_2": [
+      69,
+      78
+    ],
+    "beginning_idx": 0,
+    "end_idx": 129,
+    "rmsd": 11.085026918608756,
+    "superfamily": [
+      3,
+      30,
+      380,
+      10
+    ]
+  },
+  {
+    "domain_name": "2ppbM06",
+    "matching_domain_name": "3wofK00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      775,
+      784
+    ],
+    "overlap_residue_range_2": [
+      775,
+      784
+    ],
+    "beginning_idx": 1,
+    "end_idx": 128,
+    "rmsd": 11.121302030262353,
+    "superfamily": [
+      2,
+      40,
+      50,
+      150
+    ]
+  },
+  {
+    "domain_name": "3zfzB03",
+    "matching_domain_name": "4cjnB03",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      578,
+      587
+    ],
+    "overlap_residue_range_2": [
+      578,
+      587
+    ],
+    "beginning_idx": 0,
+    "end_idx": 642,
+    "rmsd": 11.141379865601145,
+    "superfamily": [
+      3,
+      30,
+      1390,
+      30
+    ]
+  },
+  {
+    "domain_name": "3vduA03",
+    "matching_domain_name": "4o6pB01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      108,
+      117
+    ],
+    "overlap_residue_range_2": [
+      108,
+      117
+    ],
+    "beginning_idx": 0,
+    "end_idx": 197,
+    "rmsd": 11.15093437823081,
+    "superfamily": [
+      3,
+      40,
+      1360,
+      10
+    ]
+  },
+  {
+    "domain_name": "6g6zA00",
+    "matching_domain_name": "4zhiA00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      118,
+      127
+    ],
+    "overlap_residue_range_2": [
+      118,
+      127
+    ],
+    "beginning_idx": 0,
+    "end_idx": 333,
+    "rmsd": 11.17869812614388,
+    "superfamily": [
+      3,
+      40,
+      850,
+      10
+    ]
+  },
+  {
+    "domain_name": "4bwxB02",
+    "matching_domain_name": "4czyB02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      617,
+      626
+    ],
+    "overlap_residue_range_2": [
+      617,
+      626
+    ],
+    "beginning_idx": 0,
+    "end_idx": 403,
+    "rmsd": 11.22539166477506,
+    "superfamily": [
+      1,
+      20,
+      5,
+      5160
+    ]
+  },
+  {
+    "domain_name": "4i55A02",
+    "matching_domain_name": "6gwdC02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      41,
+      50
+    ],
+    "overlap_residue_range_2": [
+      41,
+      50
+    ],
+    "beginning_idx": 0,
+    "end_idx": 436,
+    "rmsd": 11.309092453575193,
+    "superfamily": [
+      3,
+      30,
+      1330,
+      20
+    ]
+  },
+  {
+    "domain_name": "1txnA00",
+    "matching_domain_name": "1tklA00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      43,
+      52
+    ],
+    "overlap_residue_range_2": [
+      43,
+      52
+    ],
+    "beginning_idx": 0,
+    "end_idx": 267,
+    "rmsd": 11.349831162085014,
+    "superfamily": [
+      3,
+      40,
+      1500,
+      10
+    ]
+  },
+  {
+    "domain_name": "2vzaD01",
+    "matching_domain_name": "2jk8B01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      112,
+      121
+    ],
+    "overlap_residue_range_2": [
+      112,
+      121
+    ],
+    "beginning_idx": 0,
+    "end_idx": 291,
+    "rmsd": 11.389682166686175,
+    "superfamily": [
+      1,
+      10,
+      3290,
+      10
+    ]
+  },
+  {
+    "domain_name": "5m9xB03",
+    "matching_domain_name": "2gduB03",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      335,
+      344
+    ],
+    "overlap_residue_range_2": [
+      335,
+      344
+    ],
+    "beginning_idx": 0,
+    "end_idx": 504,
+    "rmsd": 11.42554082724001,
+    "superfamily": [
+      2,
+      20,
+      220,
+      10
+    ]
+  },
+  {
+    "domain_name": "6h6kA03",
+    "matching_domain_name": "2ahoA03",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      228,
+      237
+    ],
+    "overlap_residue_range_2": [
+      228,
+      237
+    ],
+    "beginning_idx": 0,
+    "end_idx": 413,
+    "rmsd": 11.556246414119723,
+    "superfamily": [
+      2,
+      40,
+      30,
+      10
+    ]
+  },
+  {
+    "domain_name": "3kqaA01",
+    "matching_domain_name": "1q3gI01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      116,
+      125
+    ],
+    "overlap_residue_range_2": [
+      116,
+      125
+    ],
+    "beginning_idx": 0,
+    "end_idx": 419,
+    "rmsd": 11.577271579299715,
+    "superfamily": [
+      3,
+      65,
+      10,
+      10
+    ]
+  },
+  {
+    "domain_name": "2odhA01",
+    "matching_domain_name": "3imbB01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      47,
+      56
+    ],
+    "overlap_residue_range_2": [
+      47,
+      56
+    ],
+    "beginning_idx": 0,
+    "end_idx": 238,
+    "rmsd": 11.713089450736552,
+    "superfamily": [
+      3,
+      40,
+      210,
+      20
+    ]
+  },
+  {
+    "domain_name": "1zhzA03",
+    "matching_domain_name": "4f4bA03",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      350,
+      359
+    ],
+    "overlap_residue_range_2": [
+      350,
+      359
+    ],
+    "beginning_idx": 0,
+    "end_idx": 436,
+    "rmsd": 11.713527464840299,
+    "superfamily": [
+      2,
+      40,
+      160,
+      120
+    ]
+  },
+  {
+    "domain_name": "2lkvA00",
+    "matching_domain_name": "2f0dA00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      43,
+      52
+    ],
+    "overlap_residue_range_2": [
+      43,
+      52
+    ],
+    "beginning_idx": 0,
+    "end_idx": 136,
+    "rmsd": 11.747072068452104,
+    "superfamily": [
+      2,
+      40,
+      50,
+      90
+    ]
+  },
+  {
+    "domain_name": "3uoaC02",
+    "matching_domain_name": "6f7iB02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      493,
+      502
+    ],
+    "overlap_residue_range_2": [
+      493,
+      502
+    ],
+    "beginning_idx": 1,
+    "end_idx": 380,
+    "rmsd": 11.855072836683213,
+    "superfamily": [
+      2,
+      60,
+      40,
+      3360
+    ]
+  },
+  {
+    "domain_name": "2pyjB05",
+    "matching_domain_name": "1xhzC05",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      302,
+      311
+    ],
+    "overlap_residue_range_2": [
+      302,
+      311
+    ],
+    "beginning_idx": 0,
+    "end_idx": 571,
+    "rmsd": 12.055567241881711,
+    "superfamily": [
+      4,
+      10,
+      80,
+      20
+    ]
+  },
+  {
+    "domain_name": "2gsyE02",
+    "matching_domain_name": "2df7A02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      110,
+      119
+    ],
+    "overlap_residue_range_2": [
+      110,
+      119
+    ],
+    "beginning_idx": 0,
+    "end_idx": 420,
+    "rmsd": 12.299288506495351,
+    "superfamily": [
+      2,
+      60,
+      120,
+      660
+    ]
+  },
+  {
+    "domain_name": "3fz2F00",
+    "matching_domain_name": "1z1zA00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      47,
+      56
+    ],
+    "overlap_residue_range_2": [
+      44,
+      53
+    ],
+    "beginning_idx": 0,
+    "end_idx": 129,
+    "rmsd": 12.335209666557429,
+    "superfamily": [
+      3,
+      30,
+      70,
+      1700
+    ]
+  },
+  {
+    "domain_name": "2l23A00",
+    "matching_domain_name": "2ky6A00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      19,
+      28
+    ],
+    "overlap_residue_range_2": [
+      408,
+      417
+    ],
+    "beginning_idx": 1,
+    "end_idx": 159,
+    "rmsd": 12.380960482448012,
+    "superfamily": [
+      2,
+      40,
+      290,
+      30
+    ]
+  },
+  {
+    "domain_name": "2ex0B01",
+    "matching_domain_name": "2ihjA01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      270,
+      279
+    ],
+    "overlap_residue_range_2": [
+      270,
+      279
+    ],
+    "beginning_idx": 0,
+    "end_idx": 389,
+    "rmsd": 12.680297003655877,
+    "superfamily": [
+      3,
+      40,
+      50,
+      11120
+    ]
+  },
+  {
+    "domain_name": "6djmB03",
+    "matching_domain_name": "4jhdE02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      40,
+      49
+    ],
+    "overlap_residue_range_2": [
+      40,
+      49
+    ],
+    "beginning_idx": 2,
+    "end_idx": 371,
+    "rmsd": 12.706165711214867,
+    "superfamily": [
+      3,
+      30,
+      420,
+      40
+    ]
+  },
+  {
+    "domain_name": "1oglA01",
+    "matching_domain_name": "1ogkD01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      213,
+      222
+    ],
+    "overlap_residue_range_2": [
+      213,
+      222
+    ],
+    "beginning_idx": 0,
+    "end_idx": 244,
+    "rmsd": 12.975472586502391,
+    "superfamily": [
+      1,
+      20,
+      1680,
+      10
+    ]
+  },
+  {
+    "domain_name": "4emxB06",
+    "matching_domain_name": "1o9xA02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      75,
+      84
+    ],
+    "overlap_residue_range_2": [
+      75,
+      84
+    ],
+    "beginning_idx": 0,
+    "end_idx": 579,
+    "rmsd": 13.013983377606163,
+    "superfamily": [
+      1,
+      10,
+      246,
+      10
+    ]
+  },
+  {
+    "domain_name": "3kaiA01",
+    "matching_domain_name": "1f8aB01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      64,
+      73
+    ],
+    "overlap_residue_range_2": [
+      68,
+      77
+    ],
+    "beginning_idx": 0,
+    "end_idx": 145,
+    "rmsd": 13.025150771706842,
+    "superfamily": [
+      2,
+      20,
+      70,
+      10
+    ]
+  },
+  {
+    "domain_name": "4pokD00",
+    "matching_domain_name": "5dqyA00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      68,
+      77
+    ],
+    "overlap_residue_range_2": [
+      68,
+      77
+    ],
+    "beginning_idx": 0,
+    "end_idx": 105,
+    "rmsd": 13.10197635592673,
+    "superfamily": [
+      3,
+      40,
+      30,
+      10
+    ]
+  },
+  {
+    "domain_name": "4ki2A00",
+    "matching_domain_name": "4xlpF01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      158,
+      167
+    ],
+    "overlap_residue_range_2": [
+      158,
+      167
+    ],
+    "beginning_idx": 0,
+    "end_idx": 177,
+    "rmsd": 13.112304133676483,
+    "superfamily": [
+      1,
+      20,
+      120,
+      1810
+    ]
+  },
+  {
+    "domain_name": "4ltyA02",
+    "matching_domain_name": "4m0vB02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      144,
+      153
+    ],
+    "overlap_residue_range_2": [
+      144,
+      153
+    ],
+    "beginning_idx": 0,
+    "end_idx": 342,
+    "rmsd": 13.243375341732161,
+    "superfamily": [
+      3,
+      30,
+      160,
+      720
+    ]
+  },
+  {
+    "domain_name": "2itgA00",
+    "matching_domain_name": "4cgfA00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      140,
+      149
+    ],
+    "overlap_residue_range_2": [
+      140,
+      149
+    ],
+    "beginning_idx": 0,
+    "end_idx": 153,
+    "rmsd": 13.41858717310334,
+    "superfamily": [
+      3,
+      30,
+      420,
+      10
+    ]
+  },
+  {
+    "domain_name": "3cs9A02",
+    "matching_domain_name": "2hz0A02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      392,
+      401
+    ],
+    "overlap_residue_range_2": [
+      392,
+      401
+    ],
+    "beginning_idx": 0,
+    "end_idx": 265,
+    "rmsd": 13.66310280163142,
+    "superfamily": [
+      1,
+      10,
+      510,
+      10
+    ]
+  },
+  {
+    "domain_name": "4rwqA01",
+    "matching_domain_name": "4rwnA01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      60,
+      69
+    ],
+    "overlap_residue_range_2": [
+      60,
+      69
+    ],
+    "beginning_idx": 0,
+    "end_idx": 346,
+    "rmsd": 13.67352592426445,
+    "superfamily": [
+      3,
+      30,
+      460,
+      10
+    ]
+  },
+  {
+    "domain_name": "3iloA00",
+    "matching_domain_name": "3hd1A00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      86,
+      95
+    ],
+    "overlap_residue_range_2": [
+      86,
+      95
+    ],
+    "beginning_idx": 0,
+    "end_idx": 158,
+    "rmsd": 14.17051024974191,
+    "superfamily": [
+      3,
+      30,
+      70,
+      560
+    ]
+  },
+  {
+    "domain_name": "4c8rF01",
+    "matching_domain_name": "4bgkA01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      191,
+      200
+    ],
+    "overlap_residue_range_2": [
+      191,
+      200
+    ],
+    "beginning_idx": 0,
+    "end_idx": 384,
+    "rmsd": 14.369125558733566,
+    "superfamily": [
+      3,
+      30,
+      2020,
+      30
+    ]
+  },
+  {
+    "domain_name": "5eyvA03",
+    "matching_domain_name": "5eytA03",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      408,
+      417
+    ],
+    "overlap_residue_range_2": [
+      408,
+      417
+    ],
+    "beginning_idx": 0,
+    "end_idx": 470,
+    "rmsd": 14.377369986160765,
+    "superfamily": [
+      6,
+      10,
+      250,
+      1570
+    ]
+  },
+  {
+    "domain_name": "1tx9B00",
+    "matching_domain_name": "1al0400",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      105,
+      114
+    ],
+    "overlap_residue_range_2": [
+      105,
+      114
+    ],
+    "beginning_idx": 0,
+    "end_idx": 129,
+    "rmsd": 14.601370071145137,
+    "superfamily": [
+      1,
+      10,
+      1850,
+      10
+    ]
+  },
+  {
+    "domain_name": "3uwpA01",
+    "matching_domain_name": "5mw4B01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      301,
+      310
+    ],
+    "overlap_residue_range_2": [
+      301,
+      310
+    ],
+    "beginning_idx": 0,
+    "end_idx": 328,
+    "rmsd": 14.718816125964947,
+    "superfamily": [
+      1,
+      10,
+      260,
+      60
+    ]
+  },
+  {
+    "domain_name": "3ksyA05",
+    "matching_domain_name": "6d5hB01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      657,
+      666
+    ],
+    "overlap_residue_range_2": [
+      657,
+      666
+    ],
+    "beginning_idx": 1,
+    "end_idx": 478,
+    "rmsd": 14.80130260649772,
+    "superfamily": [
+      1,
+      20,
+      870,
+      10
+    ]
+  },
+  {
+    "domain_name": "2ze2A03",
+    "matching_domain_name": "4dg1A02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      277,
+      286
+    ],
+    "overlap_residue_range_2": [
+      277,
+      286
+    ],
+    "beginning_idx": 0,
+    "end_idx": 549,
+    "rmsd": 15.18933230859765,
+    "superfamily": [
+      3,
+      30,
+      70,
+      270
+    ]
+  },
+  {
+    "domain_name": "4jq5H00",
+    "matching_domain_name": "4jo7C00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      356,
+      365
+    ],
+    "overlap_residue_range_2": [
+      358,
+      367
+    ],
+    "beginning_idx": 0,
+    "end_idx": 83,
+    "rmsd": 15.192899562318315,
+    "superfamily": [
+      6,
+      10,
+      140,
+      1350
+    ]
+  },
+  {
+    "domain_name": "4xm8A02",
+    "matching_domain_name": "1pwvB03",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      350,
+      367
+    ],
+    "overlap_residue_range_2": [
+      350,
+      367
+    ],
+    "beginning_idx": 0,
+    "end_idx": 503,
+    "rmsd": 15.2692770334041,
+    "superfamily": [
+      1,
+      10,
+      2030,
+      10
+    ]
+  },
+  {
+    "domain_name": "3o4xB02",
+    "matching_domain_name": "2bapA02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      410,
+      419
+    ],
+    "overlap_residue_range_2": [
+      410,
+      419
+    ],
+    "beginning_idx": 0,
+    "end_idx": 300,
+    "rmsd": 15.743435436404297,
+    "superfamily": [
+      1,
+      10,
+      238,
+      150
+    ]
+  },
+  {
+    "domain_name": "4hbeB00",
+    "matching_domain_name": "4harB00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      53,
+      62
+    ],
+    "overlap_residue_range_2": [
+      53,
+      62
+    ],
+    "beginning_idx": 0,
+    "end_idx": 97,
+    "rmsd": 15.829432374992404,
+    "superfamily": [
+      3,
+      10,
+      50,
+      50
+    ]
+  },
+  {
+    "domain_name": "3ddaA00",
+    "matching_domain_name": "2imbB01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      198,
+      207
+    ],
+    "overlap_residue_range_2": [
+      198,
+      207
+    ],
+    "beginning_idx": 0,
+    "end_idx": 416,
+    "rmsd": 15.847299428400525,
+    "superfamily": [
+      3,
+      90,
+      1240,
+      10
+    ]
+  },
+  {
+    "domain_name": "3v5iG00",
+    "matching_domain_name": "3qwdM00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      130,
+      139
+    ],
+    "overlap_residue_range_2": [
+      130,
+      139
+    ],
+    "beginning_idx": 0,
+    "end_idx": 184,
+    "rmsd": 16.196334417708744,
+    "superfamily": [
+      3,
+      90,
+      226,
+      10
+    ]
+  },
+  {
+    "domain_name": "4dchA01",
+    "matching_domain_name": "4mlhA01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      107,
+      116
+    ],
+    "overlap_residue_range_2": [
+      107,
+      116
+    ],
+    "beginning_idx": 2,
+    "end_idx": 448,
+    "rmsd": 16.324779674566997,
+    "superfamily": [
+      3,
+      40,
+      367,
+      20
+    ]
+  },
+  {
+    "domain_name": "3lfsA01",
+    "matching_domain_name": "4eoiC01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      148,
+      157
+    ],
+    "overlap_residue_range_2": [
+      148,
+      157
+    ],
+    "beginning_idx": 0,
+    "end_idx": 296,
+    "rmsd": 16.454162018516236,
+    "superfamily": [
+      3,
+      30,
+      200,
+      20
+    ]
+  },
+  {
+    "domain_name": "1ze1C02",
+    "matching_domain_name": "1ze2A02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      116,
+      125
+    ],
+    "overlap_residue_range_2": [
+      116,
+      125
+    ],
+    "beginning_idx": 0,
+    "end_idx": 308,
+    "rmsd": 17.868127481254092,
+    "superfamily": [
+      2,
+      30,
+      130,
+      10
+    ]
+  },
+  {
+    "domain_name": "5jlfA02",
+    "matching_domain_name": "5zzaA02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      41,
+      50
+    ],
+    "overlap_residue_range_2": [
+      41,
+      50
+    ],
+    "beginning_idx": 0,
+    "end_idx": 367,
+    "rmsd": 18.163341631123547,
+    "superfamily": [
+      2,
+      30,
+      36,
+      70
+    ]
+  },
+  {
+    "domain_name": "5mw1B02",
+    "matching_domain_name": "4cj7B02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      309,
+      318
+    ],
+    "overlap_residue_range_2": [
+      309,
+      318
+    ],
+    "beginning_idx": 0,
+    "end_idx": 426,
+    "rmsd": 18.70865724418629,
+    "superfamily": [
+      3,
+      30,
+      420,
+      570
+    ]
+  },
+  {
+    "domain_name": "1m0tB01",
+    "matching_domain_name": "1m0wA01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      1401,
+      1410
+    ],
+    "overlap_residue_range_2": [
+      401,
+      410
+    ],
+    "beginning_idx": 0,
+    "end_idx": 465,
+    "rmsd": 18.961683645059857,
+    "superfamily": [
+      3,
+      30,
+      1490,
+      80
+    ]
+  },
+  {
+    "domain_name": "4jkdB02",
+    "matching_domain_name": "3e9lA02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      1793,
+      1802
+    ],
+    "overlap_residue_range_2": [
+      1793,
+      1802
+    ],
+    "beginning_idx": 0,
+    "end_idx": 220,
+    "rmsd": 19.745176369419088,
+    "superfamily": [
+      1,
+      20,
+      80,
+      40
+    ]
+  },
+  {
+    "domain_name": "4jkfA01",
+    "matching_domain_name": "4jkaB01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      1793,
+      1802
+    ],
+    "overlap_residue_range_2": [
+      1793,
+      1802
+    ],
+    "beginning_idx": 0,
+    "end_idx": 220,
+    "rmsd": 20.06277252587947,
+    "superfamily": [
+      3,
+      30,
+      420,
+      230
+    ]
+  },
+  {
+    "domain_name": "1hj4A02",
+    "matching_domain_name": "1h9xB02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      109,
+      118
+    ],
+    "overlap_residue_range_2": [
+      109,
+      118
+    ],
+    "beginning_idx": 0,
+    "end_idx": 529,
+    "rmsd": 20.08573690983379,
+    "superfamily": [
+      2,
+      140,
+      10,
+      20
+    ]
+  },
+  {
+    "domain_name": "3sltA00",
+    "matching_domain_name": "2qomA00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      1244,
+      1253
+    ],
+    "overlap_residue_range_2": [
+      1244,
+      1253
+    ],
+    "beginning_idx": 0,
+    "end_idx": 277,
+    "rmsd": 20.22686093435877,
+    "superfamily": [
+      2,
+      40,
+      128,
+      130
+    ]
+  },
+  {
+    "domain_name": "2oauF01",
+    "matching_domain_name": "2vv5E01",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      57,
+      66
+    ],
+    "overlap_residue_range_2": [
+      57,
+      66
+    ],
+    "beginning_idx": 0,
+    "end_idx": 254,
+    "rmsd": 20.477295949029724,
+    "superfamily": [
+      1,
+      10,
+      287,
+      1260
+    ]
+  },
+  {
+    "domain_name": "2vdfA00",
+    "matching_domain_name": "1k24A00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      70,
+      79
+    ],
+    "overlap_residue_range_2": [
+      70,
+      79
+    ],
+    "beginning_idx": 0,
+    "end_idx": 247,
+    "rmsd": 20.97537986561179,
+    "superfamily": [
+      2,
+      40,
+      128,
+      100
+    ]
+  },
+  {
+    "domain_name": "4xymC02",
+    "matching_domain_name": "4xz3C03",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      248,
+      257
+    ],
+    "overlap_residue_range_2": [
+      248,
+      257
+    ],
+    "beginning_idx": 0,
+    "end_idx": 460,
+    "rmsd": 23.465164349929857,
+    "superfamily": [
+      3,
+      40,
+      50,
+      261
+    ]
+  },
+  {
+    "domain_name": "4gbwA02",
+    "matching_domain_name": "1eykA02",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      60,
+      69
+    ],
+    "overlap_residue_range_2": [
+      60,
+      69
+    ],
+    "beginning_idx": 0,
+    "end_idx": 326,
+    "rmsd": 23.62552586533573,
+    "superfamily": [
+      3,
+      40,
+      190,
+      80
+    ]
+  },
+  {
+    "domain_name": "5m73G00",
+    "matching_domain_name": "4p3fA00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      105,
+      114
+    ],
+    "overlap_residue_range_2": [
+      97,
+      106
+    ],
+    "beginning_idx": 4,
+    "end_idx": 197,
+    "rmsd": 24.315871894200725,
+    "superfamily": [
+      1,
+      10,
+      3450,
+      40
+    ]
+  },
+  {
+    "domain_name": "6bofB00",
+    "matching_domain_name": "1xd2A00",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      32,
+      41
+    ],
+    "overlap_residue_range_2": [
+      32,
+      41
+    ],
+    "beginning_idx": 0,
+    "end_idx": 165,
+    "rmsd": 26.041954404535915,
+    "superfamily": [
+      3,
+      40,
+      50,
+      300
+    ]
+  },
+  {
+    "domain_name": "4twaB03",
+    "matching_domain_name": "4q15A03",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      344,
+      353
+    ],
+    "overlap_residue_range_2": [
+      344,
+      353
+    ],
+    "beginning_idx": 2,
+    "end_idx": 482,
+    "rmsd": 27.106498964710426,
+    "superfamily": [
+      3,
+      30,
+      110,
+      30
+    ]
+  },
+  {
+    "domain_name": "6hv0A03",
+    "matching_domain_name": "4u6rA03",
+    "identity": 1.0,
+    "overlap_residue_range_1": [
+      714,
+      723
+    ],
+    "overlap_residue_range_2": [
+      714,
+      723
+    ],
+    "beginning_idx": 0,
+    "end_idx": 402,
+    "rmsd": 34.94324684937776,
+    "superfamily": [
+      1,
+      20,
+      1440,
+      180
+    ]
+  }
+]
